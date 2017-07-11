@@ -10,24 +10,6 @@
     <link rel="stylesheet" href="css/skeleton.css">
   </head>
   <body>
-    <div class="container">
-      <div class="row">
-      <div class="six columns" style="margin-top: 5%">
-        <p><h1>Amida Bot</h1></p>
-        <p><h3>Amida's lil <i>PHP</i> boi</h3></p>
-	<p><a href="https://discordapp.com/oauth2/authorize?&client_id=306835087138357248&scope=bot&permissions=76806"><button class="button-primary">Get my Discord BOT</button></a></p>
-        <p>
-		The only PHP to exist and to have working commands! &#128521;
-		A feat that no-one has done before. 
-		Amida Bot shall stay online, but will no longer be in development. 
-		Unless DiscordPHP gets their library rewritten.</p>
-		<p><img src="img/kek.png"></p>
-      </div>
-	  <div class="six columns" style="margin-top: 5%">
-	<p><center><iframe src="https://discordapp.com/widget?id=200279911439532032&theme=light" width="350" height="500" allowtransparency="true" frameborder="0"></iframe></center></p>
-      </div>
-   </div>
-   <hr>
        <div class="row">
 <div class="six columns">
   <h2>Command List</h2>
