@@ -13,6 +13,6 @@ Web response is a simple command which alters a variable set in a file, which is
 
 To run this you will need to install the Discord PHP library: https://discordphp.readme.io/docs/getting-started
 
-And thats pretty much really, this also includes the webresponse website. This is an old project, the library doesn't work half the time due to it being undermaintained.
+And thats pretty much it really. This also includes the webresponse website. This is an old project, the library doesn't work half the time due to it being undermaintained.
 
-If you need help im always online either on twitter (@ffsamida) or steam (amidx)
+If you need help im always online either on Twitter (@ffsamida) or Steam (amidx)
